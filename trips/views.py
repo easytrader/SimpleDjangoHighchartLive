@@ -1,3 +1,9 @@
+# @Author: Chen yunsheng(Leo YS CHen)
+# @Location: Taiwan
+# @E-mail:leoyenschen@gmail.com
+# @Date:   2017-02-14 00:11:27
+# @Last Modified by:   Chen yunsheng
+
 from django.shortcuts import render,render_to_response
 from django.template import RequestContext
 import sys
